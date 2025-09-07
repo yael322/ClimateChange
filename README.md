@@ -1,3 +1,1 @@
 # ClimateChange
-
-print("hello")
